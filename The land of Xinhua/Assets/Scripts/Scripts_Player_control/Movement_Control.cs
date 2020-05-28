@@ -35,7 +35,7 @@ public class Movement_Control : MonoBehaviour
             Walk();
             
         }
-        if (Input.GetKey("d"))
+        if (Input.GetKey("s"))
         {
             StopWalking();
         }
